@@ -8,7 +8,7 @@ This is a Python-based storytelling assistant that uses OpenAI's GPT model to ge
 - Handles various OpenAI API errors gracefully.
 
 ## Requirements
-- Python 3.7 or higher
+- Python 2.7 or higher
 - OpenAI Python library
 - `dotenv` library for environment variable management
 
